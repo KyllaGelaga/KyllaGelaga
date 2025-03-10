@@ -16,6 +16,6 @@ My team developed an **early fraud detection system** using **Isolation Forest**
 
 ### 📫 Let's connect!  
 - LinkedIn: [https://www.linkedin.com/in/kylla-gelaga/]
-- Email: [Kyllamarizgelag@gmail.com]  
+- Email: [Kyllamarizgelaga@gmail.com]  
 
 Thanks for stopping by! 😊
